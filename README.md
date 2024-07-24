@@ -79,3 +79,9 @@ A real-time collaborative code editor that allows users to work together seamles
     http://localhost:5173/
     ```
 
+7. **Check if the Server is Running:**
+   Open a browser and enter the following URL:
+    ```bash
+    http://localhost:3000/
+    ```    
+
